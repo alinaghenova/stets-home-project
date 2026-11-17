@@ -110,3 +110,9 @@
 | [er-diagram.png](er-diagram.png), [dfd-context.png](dfd-context.png), [dfd-logical.png](dfd-logical.png) | Архитектурные схемы БД и потоков данных |
 | [screen-1.png](screen-1.png.png), [screen-2.png](screen-2.png.png), [screen-3.png](screen-3.png.png), [screen-4.png](screen-4.png.png) | Макеты 16 экранов интерактивного прототипа из Figma |
 | `README.md` | Этот файл |
+
+## Стек и нотации
+
+* **Нотации и стандарты:** ERD (Crow's Foot, 3НФ), DFD (Yourdon-DeMarco), User Story Mapping (USM), Gherkin.
+* **Базы данных и SQL:** проектирование реляционных схем под PostgreSQL / MS SQL Server.
+* **Инструменты:** Draw.io, Figma (UI-kit), Miro, Git.
